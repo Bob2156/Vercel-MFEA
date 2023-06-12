@@ -2,3 +2,4 @@ flask-discord-interactions
 quart
 hypercorn
 mangum
+aiohttp
